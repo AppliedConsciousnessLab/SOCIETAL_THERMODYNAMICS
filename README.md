@@ -1,5 +1,4 @@
 # Societal Thermodynamics
-Applied Consciousness Lab (ACL)  
 © Applied Consciousness Lab (ACL)
 
 An open research framework exploring the relationship between **safety, societal stability, and civilizational coherence**.
